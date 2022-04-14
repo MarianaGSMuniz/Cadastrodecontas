@@ -1,0 +1,15 @@
+* {}
+
+body {
+    margin: 0;
+}
+
+.container {
+    background-color: aquamarine;
+    background-size: cover;
+}
+
+.principal {
+    background-color: aquamarine;
+    background-size: cover;
+}
