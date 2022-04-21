@@ -110,3 +110,30 @@ form p {
     float: left;
     margin: 0 20px 20px 0;
 }
+
+/*.bt {
+    border:1px solid #25692A;
+    border-radius:4px;
+    display:inline-block;
+    cursor:pointer;
+    font-family:Verdana;
+    font-weight:bold;
+    font-size:13px;
+    padding:6px 10px;
+    text-decoration:none;
+} */
+
+.bt {
+    background-color: transparent;
+    border: 0;
+    color: #00f;
+    cursor: pointer;
+    display: inline-block;
+    padding: 0;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    display: inline;
+}
